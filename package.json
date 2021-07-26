@@ -1,7 +1,7 @@
 {
-  "name": "color-pallete",
-  "version": "0.1.0",
-  "private": true,
+  "name": "color-viewer",
+  "version": "1.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
